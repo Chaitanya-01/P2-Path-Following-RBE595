@@ -31,7 +31,7 @@ https://youtu.be/_bZi1fZofUs
 
 For the train data 1, plots and animation showing roll, pitch, and yaw for all the filters:
 <p float="middle">
-<img src="media/samplemap1_edit.mp4" width="750" height="450"/>
+<video src= 'https://youtu.be/_bZi1fZofUs' width=180/>
 <!-- <img src="outputs/p1b.png" width="750" height="450"/> -->
 </p>
 <!-- <p float="middle">
