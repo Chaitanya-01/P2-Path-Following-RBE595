@@ -28,11 +28,11 @@ On sample maps in blender:
 Sample map 1:
 
 <p float="middle">
-<img src="media/samplemap1.png" />
+<img src="media/samplemap1.PNG" />
 </p>
 
 <p float="middle">
-<img src="media/samplemap1_frontview.gif" width="750" height="350"/>
+<img src="media/samplemap1_frontview.gif" width="450" height="450"/> <img src="media/samplemap1_sideview.gif" width="450" height="450"/>
 </p>
 
 Remaining plots are present in the report and links to rest of the animations are 
