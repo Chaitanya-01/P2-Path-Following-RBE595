@@ -31,7 +31,7 @@ https://github.com/Chaitanya-01/P2-Path-Following-RBE595/blob/main/media/samplem
 
 For the train data 1, plots and animation showing roll, pitch, and yaw for all the filters:
 <p float="middle">
-<img src="media/samplemap1_edit.mkv" width="750" height="450"/>
+<img src="media/samplemap1_edit.mp4" width="750" height="450"/>
 <!-- <img src="outputs/p1b.png" width="750" height="450"/> -->
 </p>
 <!-- <p float="middle">
