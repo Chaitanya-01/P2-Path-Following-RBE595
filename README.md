@@ -15,8 +15,8 @@ In this project a RRT* path planning and minimum snap trajectory generation (mot
 	- Set up the tello drone and orin nano
    	- On orin nano clone this repository
    	- Copy the trajectory csv file generated in the previous simulation from `sample_traj` folder to `src` folder
-   	- Open the `tello_run.py' file and set the appropriate trajectory file name.
-   	- Connect to the network of the tello drone and run in `src' folder the following command:
+   	- Open the `tello_run.py` file and set the appropriate trajectory file name.
+   	- Connect to the network of the tello drone and run in `src` folder the following command:
    	  ```
 	  python3 tello_run.py
 	  ```
