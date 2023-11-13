@@ -27,17 +27,12 @@ For detailed description of the math see the report [here](Report.pdf).
 On sample maps in blender:
 Sample map 1:
 
-https://youtu.be/_bZi1fZofUs
-
-
-For the train data 1, plots and animation showing roll, pitch, and yaw for all the filters:
 <p float="middle">
-<video src= https://youtu.be/_bZi1fZofUs width=180/>
-<!-- <img src="outputs/p1b.png" width="750" height="450"/> -->
+<img src="media/samplemap1.png" width="750" height="450"/>
 </p>
-<!-- <p float="middle">
-<img src="outputs/output1.gif" width="750" height="350"/>
-</p> -->
+<p float="middle">
+<img src="media/samplemap1_frontview.gif" width="750" height="350"/>
+</p>
 
 Remaining plots are present in the report and links to rest of the animations are 
 [train1](https://www.youtube.com/watch?v=QqZrlZt3IWk), [train2](https://youtu.be/YaMS5Z0NG9c), [train3](https://youtu.be/Bt4ej2pWsNQ), [train4](https://youtu.be/VEVUZr9buow), [train5](https://youtu.be/5XoWXI-sQrE), [train6](https://youtu.be/J3JOtn7tDPE).
