@@ -24,7 +24,7 @@ In this project a RRT* path planning and minimum snap trajectory generation (mot
 ## Report
 For detailed description of the math see the report [here](Report.pdf).
 ## Plots and Animations
-On sample maps in blender:\
+On sample maps in blender:
 ### Sample map 1:
 Watch the full simulation for sample map 1 [here](https://youtu.be/_bZi1fZofUs).
 
