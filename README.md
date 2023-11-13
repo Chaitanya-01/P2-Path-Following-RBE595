@@ -26,6 +26,7 @@ For detailed description of the math see the report [here](Report.pdf).
 ## Plots and Animations
 On sample maps in blender:
 Sample map 1:
+
 https://youtu.be/_bZi1fZofUs
 
 
