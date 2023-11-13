@@ -26,7 +26,7 @@ For detailed description of the math see the report [here](Report.pdf).
 ## Plots and Animations
 On sample maps in blender:
 Sample map 1:
-https://github.com/Chaitanya-01/P2-Path-Following-RBE595/blob/main/media/samplemap1_edit.mp4
+https://youtu.be/_bZi1fZofUs
 
 
 For the train data 1, plots and animation showing roll, pitch, and yaw for all the filters:
